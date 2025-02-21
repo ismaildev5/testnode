@@ -1,0 +1,25 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "form-data": "^4.0.2",
+    "he": "^1.2.0",
+    "node-fetch": "^2.7.0",
+    "playwright": "^1.50.1",
+    "puppeteer": "^24.2.1",
+    "puppeteer-core": "^24.2.1",
+    "sanitize-html": "^2.14.0",
+    "valid-url": "^1.0.9"
+  }
+}
