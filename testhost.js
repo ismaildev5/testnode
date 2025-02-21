@@ -13,7 +13,7 @@ function logMessage(message) {
 // Fonction pour envoyer des données à l'API WordPress
 async function sendPostToWordPress() {
     const postData = {
-        title: 'wa333333333333333333',
+        title: 'railwaysssss',
         content: 'Contenu de test pour l\'envoi à WordPress.',
         status: 'publish' // Statut du post (peut être 'draft' ou 'publish')
     };
